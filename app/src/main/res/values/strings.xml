@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MicroBSEntryApp</string>
+    <string name="hintName">name</string>
+    <string name="hintUsername">username</string>
+    <string name="hintPassword">password</string>
+    <string name="signUp">Sign up</string>
+    <string name="switchToLogin">Already have an account?</string>
+    <string name="logIn">Log in</string>
+    <string name="switchToSignUp">Don\'t have an account yet?</string>
+    <string name="imageLogoDescription">Logo image</string>
+    <string name="optionsTitle">Available actions:</string>
+    <string name="insertWorkerAction">Insert worker</string>
+    <string name="listWorkerAction">List workers</string>
+    <string name="insertCustomerAction">Insert customer</string>
+    <string name="listCustomerAction">List customers</string>
+    <string name="hintSurname">surname</string>
+    <string name="hintID">id</string>
+    <string name="hintCity">city</string>
+    <string name="hintStorageUnits">storage units</string>
+    <string name="hintPib">PIB</string>
+    <string name="hintZaposleni">zaposleni</string>
+    <string name="workerStoragesText">Storages: </string>
+    <string name="btnStartService">Start a service</string>
+    <string name="hintCityName">Enter a name of a city</string>
+    <string name="getWeather">Get the Weather</string>
+    <string name="temperature">temperature</string>
+</resources>
